@@ -1,0 +1,29 @@
+#lista1 {
+
+	font-family:Arial;
+	font-weight:bold;
+	font-size:20px;
+}
+
+.separador {
+	color:black;
+}
+
+#lista1 li {
+	align-self: center;
+	display: inline-block;
+	margin-left:6px;
+	margin-right:6px;
+}
+
+a {
+    color:maroon;
+    text-decoration:none;
+}
+
+.text-align-center {
+  color: #333;
+
+  line-height: 100px;
+  text-align: center;
+}
